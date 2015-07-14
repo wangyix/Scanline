@@ -1,0 +1,112 @@
+#button_thread
+newmtl lambert3SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd pink-thread.jpg
+map_bump pink-thread.jpg
+
+#metal_limbs
+newmtl phong2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 18.00
+map_Kd starnetblog_tileable_metal_texture2.jpg
+map_Ks starnetblog_tileable_metal_texture3.jpg
+#map_bump starnetblog_tileable_metal_texture3.jpg
+
+
+#torso
+newmtl phong3SG
+illum 2
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+map_Kd striped-fabric-texture-pink-on-white-600x400.jpg
+
+
+#buttons
+newmtl phong4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+map_Kd marble_pink-400.jpg
+
+#ruffles
+newmtl phong5SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+map_Kd ItsyBitsyDotsinPink2.png
+
+#eyes
+newmtl phong6SG
+illum 4
+Kd 0.70 0.04 0.4
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.1 0.6
+Ns 18.00
+map_Ns Fly_SHADER_NRM.png
+
+#hat
+newmtl phong7SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+map_Kd striped-fabric-texture-pink-on-whitetiled.png
+
+#hat_trim
+newmtl phong8SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+map_Kd marble_pink-400.jpg
+
+#head
+newmtl phong9SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+map_Kd headUV.png
+
+#teeth
+newmtl phong10SG
+illum 4
+Kd 1.20 1.20 1.10
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 18.00
+map_Kd ivory-off-white-paper-texture.jpg

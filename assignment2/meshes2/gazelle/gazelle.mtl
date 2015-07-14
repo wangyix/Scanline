@@ -1,0 +1,103 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.0 6.0.0.5908 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Mat_fuse_png
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 25.9921
+map_Kd fuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _6___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd Hprop.png
+map_bump 
+bump 
+map_opacity Hprop.png
+map_d Hprop.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _2___Default
+Ka 0.0117647 0.0666667 0.0980392
+Kd 0.0117647 0.0666667 0.0980392
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+d 0.34
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl None_gazelle_inn_glass_png
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.8 0.8 0.8
+illum 2
+Ns 2.14355
+map_Kd gazelle_inn_glass.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mat_001_gazelle_interior_png
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.8 0.8 0.8
+illum 2
+Ns 181.019
+map_Kd gazelle_interior.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _4___Default
+Ka 0.588235 0.588235 0.588235
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 48.5029
+map_Kd inn.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

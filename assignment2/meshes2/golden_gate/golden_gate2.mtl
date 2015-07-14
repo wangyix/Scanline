@@ -1,0 +1,376 @@
+newmtl golden_gate:CABLES2_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:CABLES2_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_002SG
+illum 4
+Kd 0.66 0.66 0.66
+Ka 0.66 0.66 0.66
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_002SG2
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_002SG4
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.32 0.32 0.32
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_004SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Group_005SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Layer0_001SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:Layer0_001SG3
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablemain1_001SG
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablemain1_001SG2
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablemain1_002SG
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablemain1_002SG2
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablesFBXASC0351_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablesFBXASC0351_001SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablesFBXASC0351_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cablesFBXASC0351_002SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cables_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cables_001SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cables_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:cables_002SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable2_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable2_001SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable2_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable2_002SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable3_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable3_001SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable3_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:maincable3_002SG2
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:tower_001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:tower_001SG2
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:trussFBXASC0351_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_003SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_004SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_005SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_006SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_007SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_008SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_009SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_010SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_011SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_012SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_013SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl golden_gate:truss_014SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

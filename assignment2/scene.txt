@@ -1,0 +1,4 @@
+meshes2/water/water.obj
+meshes2/golden_gate/golden_gate3.obj
+meshes2/doll_rev/doll3.obj
+meshes2/News_Helicopter/News_Helicopter.obj

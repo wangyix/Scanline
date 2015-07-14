@@ -1,0 +1,279 @@
+newmtl CABLES2_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CABLES2_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_001SG
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+
+#road
+newmtl Group_002SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+map_Kd road-texture4.png
+
+
+newmtl Group_004SG
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_005SG
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Layer0_001SG2
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cablesFBXASC0351_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cablesFBXASC0351_001SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cablesFBXASC0351_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cablesFBXASC0351_002SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cables_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cables_001SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cables_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cables_002SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl maincable3_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+
+newmtl maincable3_001SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+
+newmtl maincable3_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl maincable3_002SG1
+illum 4
+Kd 0.88 0.88 0.78
+Ka 0.88 0.88 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl trussFBXASC0351_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_001SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_002SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_003SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_004SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_005SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_006SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_007SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_008SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_009SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_010SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_011SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_012SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_013SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl truss_014SG
+illum 4
+Kd 0.55 0.22 0.17
+Ka 0.55 0.22 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
