@@ -1147,14 +1147,14 @@ void KeyCallback(unsigned char key, int x, int y)
         break;
     case '7':
         selectedLightAttrib = 0;
-        printf("light attrib az selected ====\n");
+        printf("light attrib azimuth or X selected ====\n");
         break;
     case '8':
-        printf("light attrib el selected ====\n");
+        printf("light attrib elevation or Y selected ====\n");
         selectedLightAttrib = 1;
         break;
     case '9':
-        printf("light attrib scale selected ====\n");
+        printf("light attrib brightness or Z selected ====\n");
         selectedLightAttrib = 2;
         break;
     }
