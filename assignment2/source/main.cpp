@@ -1274,7 +1274,7 @@ int main(int argc, char** argv)
     glutInit(&argc, argv);
     glutInitDisplayMode( GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
     glutInitWindowPosition(20, 20);
-    glutInitWindowSize(640, 480);
+    glutInitWindowSize(1280, 720);
     glutCreateWindow("CS148 Assignment 2");
     
     //
